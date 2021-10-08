@@ -1,5 +1,6 @@
 # PERTEMUAN-4
 Kerjain challenges berikut, untuk deskripsi dari challenge-nya bisa dilihat di link berikut atau membuka file pdf dari masing-masing folder challenge:
+* https://www.hackerrank.com/challenges/python-loops/problem
 * https://www.hackerrank.com/challenges/py-if-else/problem
 * https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem
 
